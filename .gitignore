@@ -34,5 +34,3 @@ msbuild.wrn
 
 # Visual Studio 2015
 .vs/
-/api/SAFCreditApi/SAFCreditApi/SAFCredit.Api/Controllers/V1/SafRegisterController.cs
-/api/SAFCreditApi/SAFCreditApi/SAFCredit.Api/Controllers/V1
